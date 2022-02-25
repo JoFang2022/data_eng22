@@ -1,1 +1,2 @@
-new file 
+# markdown
+This is a type of markdown
